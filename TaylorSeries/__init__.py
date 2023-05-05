@@ -1,0 +1,3 @@
+from .TaylorSeries import (
+    TSsin
+)
